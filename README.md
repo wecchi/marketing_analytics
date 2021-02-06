@@ -37,8 +37,8 @@ O departamento de marketing precisa descobrir se determinados produtos no site d
 
 #### Metodologia utilizada
 Aplicação de teste de hipótese para o seguinte cenário:
-- H₀: (P<sub>A</sub> - P<sub>B</sub> = 0
-- H₁: (P<sub>A</sub> - P<sub>B</sub> > 0
+- H₀: (P<sub>A</sub> - P<sub>B</sub>) = 0
+- H₁: (P<sub>A</sub> - P<sub>B</sub>) > 0
 
 >H₀ nos diz que a diferença de probabilidade dos dois grupos é igual a zero.<br />
 H₁ nos diz que a diferença de probabilidade dos dois grupos é maior do que zero.
@@ -65,7 +65,7 @@ Tratamento dos dados fornecidos e criação dos indicadores para 12 meses.
 A empresa *Lua Smart Techmonta* vende os modelos de smartphones, **Lua1**, **Lua2**, **Lua3**, **Lua4**, **Lua5**. A empresa está elaborando uma campanha *X* de marketing digital nas principais mídias sociais e precisa decidir quantas unidadesde de cada um dos modelos vai promover. Considerando que não há nenhum smartphone em estoque para esta campanha *X* e que após a camanha esses modelos serão atualizados e, por tanto, a empresa não quer manter nada em estoque.<br />
 <mark> A *LuaSmart Tech* deseja saber quantas unidadesde de cada um de seus atuais modelos deve produzir (montar, testar e trabalhar na campanha de marketing *X*) para **maximizar seu lucro líquido**</mark> tendo como restrição não exceder mais horas de trabalho do que as disponíveis e também não deseja produzir mais do que pode vender pelos canais digitais; conforme seu plano de vendas elaborado pelo Departamento de Marketing:
 
-|Modelo|Qtde máxima da<br> campanha ($N_i$)|Valor unitário <br> para venda ($V_i$)|
+|Modelo|Qtde máxima da<br> campanha (N<sub>i</sub>)|Valor unitário R$ <br> para venda (V<sub>i</sub>)|
 |:-----|--------------------------------:|-------------------------------------:|
 |Lua1|500|640|
 |Lua2|600|790|
