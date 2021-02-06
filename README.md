@@ -37,11 +37,14 @@ O departamento de marketing precisa descobrir se determinados produtos no site d
 
 #### Metodologia utilizada
 Aplicação de teste de hipótese para o seguinte cenário:
-- $H_{0}: (P_{B} - P_{A}) = 0$
+\begin{equation*}
+H_{0}: (P_{B} - P_{A}) = 0
+\\
 - $H_{1}: (P_{B} - P_{A}) > 0$
+\end{equation*}
 
->$H_{0}$ nos diz que a diferença de probabilidade dos dois grupos é igual a zero.<br />
-$H_{1}$ nos diz que a diferença de probabilidade dos dois grupos é maior do que zero.
+>H₀ nos diz que a diferença de probabilidade dos dois grupos é igual a zero.<br />
+H₁ nos diz que a diferença de probabilidade dos dois grupos é maior do que zero.
 
 ### 3. [Indicadores de Performance](IndicadoresPerformance.ipynb)
 
